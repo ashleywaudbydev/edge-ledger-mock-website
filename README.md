@@ -21,7 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_7-1-2023_0470_127 0 0 1](https://user-images.githubusercontent.com/84845712/211123583-a146945b-477e-4f52-8581-b040c5c0ce97.jpeg)
+
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
