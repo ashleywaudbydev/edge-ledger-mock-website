@@ -25,7 +25,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://00awaudby.github.io/edge-ledger-mock-website/)
+- Live Site URL: [Edge Ledger](https://00awaudby.github.io/edge-ledger-mock-website/)
 
 ## My process
 ### Built with
