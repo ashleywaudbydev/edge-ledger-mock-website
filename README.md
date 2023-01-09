@@ -1,14 +1,20 @@
 # Edge Ledger Mock Website
-A mock website based off a hotel business .
+A mock website based off a made up hotel business
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+  
+- [Screenshot](#screenshot)
+  
+- [Links](#links)
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
+
+- [Built with](#built-with)
+  
 - [Author](#author)
 
 ## Overview
@@ -18,6 +24,7 @@ A mock website based off a hotel business .
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+- view different sections of the site based on a navigation button click.
 
 ### Screenshot
 
@@ -28,14 +35,21 @@ Users should be able to:
 - Live Site URL: [Edge Ledger](https://00awaudby.github.io/edge-ledger-mock-website/)
 
 ## My process
+The process was to build out the site from desktop view to begin with and then adding css styles as i whent along untill the website was finnished  and then i would  move onto media querries to set diffeent styling for diferent breakpoints.
 ### Built with
 
 - Semantic HTML5 markup
+
 - CSS custom properties
+
 - Flexbox
+
 - CSS Grid
+
 - Mobile-first workflow
 
 ## Author
 ASHLEY WAUDBY
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
