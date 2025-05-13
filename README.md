@@ -32,7 +32,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Edge Ledger](https://00awaudby.github.io/edge-ledger-mock-website/)
+- Live Site URL: [Edge Ledger](https://ashleywaudbydev.github.io/edge-ledger-mock-website/)
 
 ## My process
 The process was to build out the site from desktop view to begin with and then adding css styles as i whent along untill the website was finnished  and then i would  move onto media querries to set diffeent styling for diferent breakpoints.
